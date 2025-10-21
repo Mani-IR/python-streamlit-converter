@@ -13,7 +13,7 @@ A simple web-based currency converter built with Python and Streamlit. Converts 
 
 ## Project Structure
 ```
-pro-6/
+./
 ├── env/                        # Virtual environment
 ├── src/
 │   ├── app.py                 # Streamlit app
