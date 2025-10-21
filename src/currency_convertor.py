@@ -1,3 +1,6 @@
+'''
+MAni Ajorloo
+'''
 import requests
 from constants import CURRENCIES
 from cachetools import cached, TTLCache
