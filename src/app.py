@@ -1,3 +1,6 @@
+'''
+Mani Ajorloo
+'''
 import streamlit as st
 import currencies
 from constants import CURRENCIES
